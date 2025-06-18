@@ -70,16 +70,6 @@ rahul:
 
 <div align="center">
 
-## 🔥 Streak Stats
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techierahul17&" alt="techierahul17" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
