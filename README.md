@@ -1,4 +1,4 @@
-# 🚀 Rahul V S | Full Stack Developer & Innovation Engineer
+# Rahul V S | Full Stack Developer
 
 <div align="center">
 
