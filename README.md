@@ -1,5 +1,4 @@
-# Rahul V S | Full Stack Developer
-
+# Rahul V S | Web & App Developer
 <div align="center">
 
 <!-- Animated Typing Banner with enhanced styling -->
