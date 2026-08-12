@@ -19,29 +19,6 @@
 
 ---
 
-## 🎯 **Mission Control** 
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Mission] --> B[📱 Attendance App]
-    A --> C[🌐 Web3 Exploration]
-    A --> D[🎮 AR/VR Development]
-    B --> E[React Native + Node.js]
-    C --> F[Blockchain + Smart Contracts]
-    D --> G[Unity + Flutter AR]
-    
-    style A fill:#00D9FF,stroke:#333,stroke-width:3px
-    style B fill:#FF6B6B,stroke:#333,stroke-width:2px
-    style C fill:#4ECDC4,stroke:#333,stroke-width:2px
-    style D fill:#45B7D1,stroke:#333,stroke-width:2px
-```
-
-</div>
-
----
-
 ## 🌟 **About The Developer**
 
 <div align="center">
@@ -233,31 +210,6 @@ pie title Weekly Coding Distribution
 </a>
 
 </div>
-
-</div>
-
----
-
-## 🎯 **2025 Roadmap**
-
-<div align="center">
-
-```mermaid
-timeline
-    title 2025 Goals & Milestones
-    section Q1 2025
-        Master AR/VR Development : AR/VR
-        Launch Mobile App #1 : Mobile
-    section Q2 2025
-        Contribute to Open Source : Open Source
-        Complete System Design Course : Learning
-    section Q3 2025
-        Launch Mobile App #2 : Mobile
-        Web3 Project Completion : Web3
-    section Q4 2025
-        Launch Mobile App #3 : Mobile
-        Reach 1000+ GitHub Stars : Achievement
-```
 
 </div>
 
