@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="card.svg" width="100%" alt="Rahul V S" />
+  <img src="card(1).svg" width="100%" alt="Rahul V S" />
 </div>
 
 <br/>
